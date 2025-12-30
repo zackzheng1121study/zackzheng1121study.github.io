@@ -1,5 +1,6 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 關於
+只是個demo
+[zackzheng's blog](zack.siiway.org)
 
 ::github{repo="saicaca/fuwari"}
 
