@@ -58,7 +58,6 @@ export const profileConfig: ProfileConfig = {
 	bio: "只是個學生",
 	links: [
 		{
-		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/zackzheng1121study",
